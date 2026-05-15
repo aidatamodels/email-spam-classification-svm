@@ -39,6 +39,24 @@ Dans ce projet, chaque e-mail est représenté par des variables numériques ind
 
 Le but n’est pas de construire un système anti-spam opérationnel complet, mais de démontrer de manière claire et pédagogique comment un modèle de classification peut apprendre à reconnaître des motifs dans des données textuelles.
 
+## Licence
+
+Ce projet est distribué sous licence MIT.
+
+La licence MIT autorise l’utilisation, la modification, la distribution et la réutilisation du code, à condition de conserver l’avis de copyright et le texte de la licence.
+
+Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+Cette licence s’applique au code source du projet. Les données externes utilisées restent soumises aux conditions d’utilisation de leur source d’origine, notamment Kaggle.
+
+## Auteur
+
+Projet développé par `aidatamodels`.
+
+Ce projet s’inscrit dans une démarche pédagogique de science des données, d’apprentissage automatique et de vulgarisation avec Python.
+
+Il vise à montrer comment transformer un problème courant — distinguer les e-mails légitimes des spams — en une analyse structurée avec préparation des données, modélisation, évaluation et interprétation des résultats.
+
 ## Source des données
 
 Le projet utilise le dataset Kaggle :
